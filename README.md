@@ -1,5 +1,7 @@
 # Wisconsin Snowmobile Trail Status
 
+**Development halted until around November or December 2017**
+
 A simple web app to view Wisconsin Snowmobile trail information such as whether
 the trails in the viewed county are open, the depth of the snow, conditions of
 the trails and if they are groomed.
